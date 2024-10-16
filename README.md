@@ -94,6 +94,7 @@ int main() {
 ```
 
 * OUTPUT A: <BR>
+![Screenshot 2024-10-16 091116](https://github.com/user-attachments/assets/2a2741a8-eb57-40c5-b2d8-ea0e42719ff6)
 
 2. CODE B:
 ```
@@ -142,6 +143,7 @@ int main() {
 ```
 
 * OUTPUT B: <BR>
+![Screenshot 2024-10-16 091156](https://github.com/user-attachments/assets/6a821f9d-0087-4dbe-88de-da14360fed2a)
 
 3. CODE C:
 ```
@@ -199,7 +201,7 @@ int main() {
 }
 ```
 * OUTPUT C: <BR>
-
+![Screenshot 2024-10-16 091221](https://github.com/user-attachments/assets/06b40c2d-cbfd-465e-b616-27f98645d960)
 
 ### CONCLUSION
 These algorithms are primarily useful for educational purposes, and while they work well on small datasets, more advanced sorting algorithms such as Quick Sort, Merge Sort, or Heap Sort are generally preferred for large datasets due to their better performance
